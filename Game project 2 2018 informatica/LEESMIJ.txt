@@ -1,0 +1,29 @@
+Volg deze instructies om de game te kunnen starten op een computer:
+
+1. Klik de map "game" aan
+
+2. Als dit de eerste keer is dat het spel gespeeld wordt op deze computer dan moet je
+eerst wat installeren ( volg stap 3 )
+	-als dit niet de eerste keer is dat het spel gespeeld wordt klik dan "startup"
+ 	-het spel zou automatisch moeten starten en je ziet een menu scherm
+
+3. Er zijn fonts(lettertypes) die gedownload moeten worden, guardians.ttf en HELR65W.ttf
+
+a) guardians.ttf is te downloaden door naar het mapje "Guardians font" te gaan ( 1 mapje terug als je al in de map "game" zit) 
+	stap 1-klik op "Guardians", er verschijnt een hoop voorbeeld tekst. bovenin rechts naast de knop "Afdrukken" staat de knop "installeren"
+	-klik op installeren als er een scherm verschijnt, klik op "ja"
+	of als dit niet werkt ga naar deze website(hieronder aangegeven) en klik "download" naast de lettertype. En herhaal bovenstaande stap
+https://www.dafont.com/guardians.font
+
+b) HELR65W.ttf is te downloaden door naar het mapje "Helvitiva font" te gaan
+	stap 1- klik op "HELR65W", er verschijnt een hoop voorbeeld tekst. bovenin rechts naast de knop "Afdrukken" staat de knop "installeren"
+	-klik op installeren als er een scherm verschijnt, klik op "ja"
+	of als dit niet werkt ga naar deze website(hieronder aangegeven) en klik "download" naast de lettertype( klik niet op "Click here"!).
+	Je komt op een nieuw scherm terecht, klik weer "Download" op dit scherm. En herhaal bovenstaande stap
+https://www.dafontfree.net/find.php?q=HELR65W.ttf
+
+4. Als dit allemaal goed is gegaan zou je nu het spel moeten kunnen spelen.
+
+bij "Settings" kan je muziek veranderen. ( muziek staat uit als je het programma start)
+"Highscores" geeft de hoogst behaalde punten weer.
+"Minigames" bevat 5 minigames  gemaakt door 5 verschillende personen
