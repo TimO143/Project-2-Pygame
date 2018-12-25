@@ -10,3 +10,7 @@ Playable without the need of python.
   <li>Go to: Game project 2 2018 informatica -> Helvetica font , and download the font via HELR65W.ttf</li>
   <li>Go to: Game project 2 2018 informatica -> game -> click startup.bat and the game should start</li>
 </ul>
+<br>
+<b>Video:</b>
+<br>
+https://youtu.be/3o6C6I0TRFw
