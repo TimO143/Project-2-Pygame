@@ -1,6 +1,6 @@
 # Project-2-Pygame
 Minigames made with Pygame with a group of 5, I made "Strange Planet"
-Playable without the need of python.
+Playable without the need of python installed on your PC.
 
 
 <b>How to install</b>
@@ -14,3 +14,5 @@ Playable without the need of python.
 <b>Video:</b>
 <br>
 https://youtu.be/3o6C6I0TRFw
+<br>
+
